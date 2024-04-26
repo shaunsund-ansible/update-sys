@@ -1,0 +1,5 @@
+# macOS detritus
+.DS_Store
+
+# VSCode settings
+.vscode/settings.json
